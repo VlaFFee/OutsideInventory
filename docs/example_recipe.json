@@ -1,0 +1,10 @@
+{
+  "type": "hubui:hub_crafting",
+  "category": "tools",
+  "description": "Шестигранная ржавая гайка. В этом мире всё разваливается, так что она всегда пригодится.",
+  "result": { "item": "minecraft:iron_nugget", "count": 1 },
+  "ingredients": [
+    { "item": "minecraft:iron_ingot", "count": 2 },
+    { "tag": "minecraft:planks", "count": 1 }
+  ]
+}

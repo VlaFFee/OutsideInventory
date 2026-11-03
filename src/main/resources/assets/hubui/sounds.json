@@ -1,0 +1,82 @@
+{
+  "ui_open": {
+    "sounds": [
+      "hubui:ui_open"
+    ]
+  },
+  "ui_close": {
+    "sounds": [
+      "hubui:ui_close"
+    ]
+  },
+  "ui_tab": {
+    "sounds": [
+      "hubui:ui_tab"
+    ]
+  },
+  "ui_glitch": {
+    "sounds": [
+      "hubui:ui_glitch"
+    ]
+  },
+  "ui_coin": {
+    "sounds": [
+      "hubui:ui_coin"
+    ]
+  },
+  "ui_craft": {
+    "sounds": [
+      "hubui:ui_craft"
+    ]
+  },
+  "ui_note": {
+    "sounds": [
+      "hubui:ui_note"
+    ]
+  },
+  "ui_scan": {
+    "sounds": [
+      "hubui:ui_scan"
+    ]
+  },
+  "ui_hover": {
+    "sounds": [
+      "hubui:ui_hover"
+    ]
+  },
+  "ui_read_open": {
+    "sounds": [
+      "hubui:ui_read_open"
+    ]
+  },
+  "ui_read_close": {
+    "sounds": [
+      "hubui:ui_read_close"
+    ]
+  },
+  "ui_select": {
+    "sounds": [
+      "hubui:ui_select"
+    ]
+  },
+  "ui_error": {
+    "sounds": [
+      "hubui:ui_error"
+    ]
+  },
+  "ui_data": {
+    "sounds": [
+      "hubui:ui_data"
+    ]
+  },
+  "ui_decode": {
+    "sounds": [
+      "hubui:ui_decode"
+    ]
+  },
+  "ui_hum": {
+    "sounds": [
+      "hubui:ui_hum"
+    ]
+  }
+}
